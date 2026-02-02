@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Patil Pruthvi Kumar**. a driven student focused on Data Analysis, SQL, and Python. I build clean, practical solutions from real-world data, with strong attention to logic, accuracy, and performance. Actively learning, shipping projects, and preparing for entry-level analyst and developer roles.!
+Hi there! I'm **Patil Pruthvi Kumar**. a driven student focused on Data Analysis, SQL, and Python. I build clean, practical solutions from real-world data, with strong attention to logic, accuracy, and performance. Actively learning, shipping projects, and preparing for entry-level Analyst roles.!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
